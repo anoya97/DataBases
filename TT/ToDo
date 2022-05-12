@@ -1,6 +1,0 @@
-- [ ] Cardinalidad de despacho, la persona puede cambiar el despacho.
-- [ ] Quitar historial de equipo.
-- [ ] Revisar carnalidad relación de Technoloy.
-- [ ] Añadir atributo Area al cliente.
-- [ ] Invertir la relación historial proyecto y proyecto, y que todas las relaciones vayan a proyecto y no a historial.
-- [ ] Revisar las claves foráneas que tengo que subrayarla punteada.
